@@ -1,4 +1,5 @@
-# Timed-Unsupervised-Learning-Project-Team6-_python
+# Timed-Unsupervised-Learning-Project-Team6-_python<br>
+## Date: 2020-3-27<br><br>
 # Case Information<br>
 
 ## Windows or Mac?<br>
